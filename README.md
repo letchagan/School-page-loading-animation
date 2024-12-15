@@ -3,7 +3,7 @@
 A simple and elegant page loading animation designed for school websites. This project showcases a visually appealing animation to enhance the user experience during page loads.
 
 ## Demo
-![Animation Demo](demo.gif)  // if you have a demo gif or image
+![Animation Demo] ![Uploading demo.gif…]()
 
 ## Features
 - Smooth and clean loading animation
